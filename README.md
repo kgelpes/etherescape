@@ -1,1 +1,1 @@
-# etherescape
+# EtherEscape
